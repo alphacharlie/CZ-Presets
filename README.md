@@ -2,7 +2,7 @@
 Casio CZ Synthesizer Presets
 
 This is a compilation of Casio CZ Synthesizer Presets from the CZ-230S synthesizer exported to sysex format for 
-the Casio CZ-101 and CZ-1000. The Casio CZ-230S was a pre-prograpped veriosn of the CZ series that included a rudimentary
+the Casio CZ-101 and CZ-1000. The Casio CZ-230S was a pre-programmed version of the CZ series that included a rudimentary
 drum machine. The 99 patches are compatible with the CZ-1000 but only the last four are editable and only over sysex. 
 
 These 99 presets are here raw and also packaged together into import files that can be used directly. The import files are 

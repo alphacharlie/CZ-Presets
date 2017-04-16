@@ -1,0 +1,128 @@
+Index of CZ-230S Presets exported to format for the CZ-101/CZ-1000. Since there are only 16 internal slots available, the 99 presets have been broken up into 7 files. The presets directory contains the raw sysex exports from the CZ-230S.
+info@boffinry.org
+
+CZ230S-00-15.syx
+
+1 - Brass Ens. 1 (Pre 00)
+2 - Brass Ens. 2 (Pre 01)
+3 - Brass Ens. 3 (Pre 02)
+4 - Symphonic Ens. 1 (Pre 03)
+5 - Symphonic Ens. 2 (Pre 04)
+6 - Symphonic Ens. 3 (Pre 05)
+7 - String Ens. 1 (Pre 06)
+8 - String Ens. 2 (Pre 07)
+9 - Synth Ens. 1 (Pre 08)
+10 - Synth Ens. 2 (Pre 09)
+11 - Light Harp (Pre 10)
+12 - Mars Sound (Pre 11)
+13 - Southern Wing (Pre 12)
+14 - Magical Wind (Pre 13)
+15 - Funky Horn (Pre 14)
+16 - Slap Horn (Pre 15)
+
+CZ230S-16-31.syx
+
+1 - Sweet Strings (Pre 16)
+2 - Light Attack (Pre 17)
+3 - Synth Harp (Pre 18)
+4 - Metallic Sound (Pre 19)
+5 - Jazz Organ 1 (Pre 20)
+6 - Jazz Organ 2 (Pre 21)
+7 - Pipe Organ 1 (Pre 22)
+8 - Pipe Organ 2 (Pre 23)
+9 - Accordion (Pre 24)
+10 - Female Chorus (Pre 25)
+11 - Male Chorus (Pre 26)
+12 - Space Voice 1 (Pre 27)
+13 - Space Voice 2 (Pre 28)
+14 - Wah Voice (Pre 29)
+15 - Trumpet (Pre 30)
+16 - Flute (Pre 31)
+
+CZ230S-32-47.syx
+
+1 - Whistle (Pre 32)
+2 - Violin (Pre 33)
+3 - Cello (Pre 34)
+4 - Blues Harmonica (Pre 35)
+5 - Shakuhachi (Pre 36)
+6 - Koto (Pre 37)
+7 - Shamisen (Pre 38)
+8 - Qanun (Pre 39)
+9 - Synth Reed (Pre 40)
+10 - Pearl Drop (Pre 41)
+11 - Double Reed (Pre 42)
+12 - Meow Attack (Pre 43)
+13 - Soft Attack (Pre 44)
+14 - Fantasy 1 (Pre 45)
+15 - Fantasy 2 (Pre 46)
+16 - Plunk Extend (Pre 47)
+
+CZ230S-48-63.syx
+
+1 - Slash Reed (Pre 48)
+2 - Synth Sitar (Pre 49)
+3 - Piano 1 (Pre 50)
+4 - Piano 2 (Pre 51)
+5 - Piano 3 (Pre 52)
+6 - Honky-Tonk Piano (Pre 53)
+7 - Elec. Piano (Pre 54)
+8 - Harpsichord 1 (Pre 55)
+9 - Harpsichord 2 (Pre 56)
+10 - Synth Clavi. (Pre 57)
+11 - Metal Honky-Tonk (Pre 58)
+12 - Double Attack (Pre 59)
+13 - Bells (Pre 60)
+14 - Carillon (Pre 61)
+15 - Synth Celesta (Pre 62)
+16 - Synth Vib. 1 (Pre 63)
+
+CZ230S-64-79.syx
+
+1 - Synth Vib. 2 (Pre 64)
+2 - Synth Vib. 3 (Pre 65)
+3 - Bell-Lyra (Pre 66)
+4 - Xylophone (Pre 67)
+5 - Soft Xylophone (Pre 68)
+6 - Marimba (Pre 69)
+7 - Aco. Guitar 1 (Pre 70)
+8 - Aco. Guitar 2 (Pre 71)
+9 - Semiaco. Guitar (Pre 72)
+10 - Feedback (Pre 73)
+11 - Elec. Guitar 1 (Pre 74)
+12 - Elec. Guitar 2 (Pre 75)
+13 - Elec. Bass 1 (Pre 76)
+14 - Elec. Bass 2 (Pre 77)
+15 - Slap Bass (Pre 78)
+16 - Metallic Bass (Pre 79)
+
+CZ230S-80-95.syx
+
+1 - Synth Drums 1 (Pre 80)
+2 - Synth Drums 2 (Pre 81)
+3 - Synth Drums 3 (Pre 82)
+4 - Synth Clapper (Pre 83)
+5 - Tambourine (Pre 84)
+6 - Cowbell (Pre 85)
+7 - Conga (Pre 86)
+8 - Tabla (Pre 87)
+9 - Afro-Percussion (Pre 88)
+10 - Steel Drum (Pre 89)
+11 - Motorcycle (Pre 90)
+12 - Jet Roar (Pre 91)
+13 - Explosion (Pre 92)
+14 - Typhoon Sound (Pre 93)
+15 - Cavernous Sound (Pre 94)
+16 - Scratch Sound (Pre 95)
+
+CZ230S-96-99.syx
+
+1 - Computer Game (96)
+2 - Laser Gun (97)
+3 - Miracle (98)
+4 - Sweep (99)
+
+
+
+
+
